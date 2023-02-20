@@ -1,0 +1,4 @@
+.idea
+.vscide
+venv
+**/*.pyc
