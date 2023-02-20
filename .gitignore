@@ -2,3 +2,4 @@
 .vscide
 venv
 **/*.pyc
+db.sqlite3
